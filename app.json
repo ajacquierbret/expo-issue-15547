@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "expo-issue-15547",
+    "slug": "expo-issue-15547",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "permissions": [
+        "CAMERA",
+        "RECORD_AUDIO"
+      ],
+      "package": "com.silancey.expoissue15547"
+    },
+    "ios": {
+      "bundleIdentifier": "com.silancey.expoissue15547"
+    }
+  },
+  "name": "expo-issue-15547"
+}
